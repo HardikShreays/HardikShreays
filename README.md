@@ -1,5 +1,5 @@
 ## Hi there 👋
-- ⚡ Fun fact: I can play table
+- ⚡ Fun fact: I can play table and
             I cook (Code,Food)
 - 🔭 I’m currently working on Learningn New things...
 - 🌱 I’m currently learning: Pursuing BTECH from NST ...
